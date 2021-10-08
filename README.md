@@ -4,10 +4,11 @@
 
 ### How to submit your code for review:
 
-I completed the challenge: 2
+I completed the challenge: 4
 
 I feel good about my code: 4
 
-API works, was able to complete JS with no help, very simple with no CSS. Will return to style. 
+First API project created with no extra help from others. Was exciting to create this. My understanding of JS is coming together.
 
 <a href="https://foodsearch-api-daphnyemily.netlify.app/">LIVE DEMO</a>
+<img src="https://github.com/daphnyemily/simple-api2-bootcamp/blob/answer/foodAPI.png">
